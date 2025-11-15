@@ -1,0 +1,17 @@
+
+<!doctype html>
+<html>
+<head>
+<h1> Hello Welcome </H1>
+</head>
+<body>
+<h1> Hello Welcome </H1>
+<p> This will be my <strong> 1st attempt at coding </strong>
+hopefully this will work out and I will learn more and more </p>
+<p> This new <em> adventure </em> is something I will be starting in Week 46 of 2025 </p>
+<h2> To Do: </h2>
+<ol>
+<li> Create and upload personal homepage to Github </li>
+<li> Add internal navigation and polish homepage </li>
+</body>
+</html>
